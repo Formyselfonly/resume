@@ -1,2 +1,2 @@
 # resume
-见简历pdf
+见简历.pdf
