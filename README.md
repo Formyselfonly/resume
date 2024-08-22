@@ -28,7 +28,7 @@ Focused on AI entities and NPCs (Non-Player Characters)
     - Applied in various fields:
 
       - Game NPCs
-      - AI Entities
+      - AI Agent
       - Chatbots
       - eCommerce Efficiency Tools
       - Novel & Story Generation
