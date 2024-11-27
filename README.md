@@ -1,4 +1,9 @@
 # Resume summary-English
+
+**Using AI Chat Bot to know about me**
+
+[Link](https://udify.app/chat/mRUJvCaXKiA7t507)
+
 **AI Graduate Student, LLM Research**
 
 **R&D in LLMs**
@@ -69,6 +74,10 @@ Focused on AI entities and NPCs (Non-Player Characters)
 
 
 # 简历摘要-Chinese
+
+**与我的AI对话机器人聊天快速了解我**
+
+[链接](https://udify.app/chat/mRUJvCaXKiA7t507)
 
 - AI研究生,大模型领域
 
