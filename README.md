@@ -4,6 +4,10 @@
 
 [Link](https://udify.app/chat/mRUJvCaXKiA7t507)
 
+**LinkedIn**
+
+[Link](https://www.linkedin.com/in/shijie-zheng-8b230433b)
+
 **AI Graduate Student, LLM Research**
 
 **R&D in LLMs**
