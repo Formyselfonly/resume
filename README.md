@@ -22,6 +22,14 @@ Focused on AI entities and NPCs (Non-Player Characters)
 
 **Two years of internship experience, with several personal projects (non-company projects) available for showcase**
 
+- Framework
+
+  - Dify,Coze,RAGFlow
+  
+  - LangChain,LangGraph,LangSmith
+
+  - FastAPI,Flask
+  
 - **AI Platform Development Experience**
 
   - **Cross-border eCommerce GPT Efficiency Tool - ECommerceGPT**
@@ -84,6 +92,14 @@ Focused on AI entities and NPCs (Non-Player Characters)
 [链接](https://udify.app/chat/mRUJvCaXKiA7t507)
 
 - AI研究生,大模型领域
+
+- Framework
+
+  - Dify,Coze,RAGFlow
+
+  - LangChain,LangGraph,LangSmith
+
+  - FastAPI,Flask
 
 - 大模型领域研发,人工智能体和NPC方向
 
